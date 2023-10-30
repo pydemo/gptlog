@@ -1,6 +1,6 @@
 {
-    "question": "give me anothe test on pop culture",
-    "answer": "1. Who wrote the \"Harry Potter\" series?\na) J.K. Rowling\nb) Stephen King\nc) Mark Twain\nd) Agatha Christie\n\n2. Friends is a popular sitcom consisting of how many main characters?\na) 5\nb) 6 \nc) 4\nd) 3\n\n3. Who played the role of Iron Man in the Marvel Cinematic Universe?\na) Chris Evans\nb) Robert Downey Jr.\nc) Tom Holland\nd) Chris Hemsworth\n\n4. Who sings the 2020 hit song \"Blinding Lights\"?\na) Post Malone\nb) The Weeknd\nc) Justin Bieber\nd) Ariana Grande\n\n5. Who won the 2021 Oscar for Best Actress?\na) Frances McDormand \nb) Viola Davis\nc) Carey Mulligan\nd) Vanessa Kirby\n\n6. Who is the creator of the popular animated TV show \"The Simpsons\"?\na) Matt Groening\nb) Seth MacFarlane\nc) Mike Judge\nd) Trey Parker\n\n7. Where \"Stranger Things\", a popular Netflix series, is primarily set?\na) Derry, Maine\nb) Sunnydale, California\nc) Boulder, Colorado\nd) Hawkins, Indiana\n\n8. Who is Kim Kardashian’s husband?\na) Jay-Z\nb) Kanye West\nc) Travis Scott\nd) Drake\n\n9. Which actor played the character of 'The Joker' in the movie 'The Dark Knight'?\na) Heath Ledger\nb) Jack Nicholson\nc) Jared Leto\nd) Joaquin Phoenix\n\n10. Who played James Bond in 'Casino Royale' (2006)?\na) Sean Connery\nb) Pierce Brosnan\nc) Daniel Craig\nd) Roger Moore\n",
+    "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+    "answer": "Okay, let's try another one:\n\nWhy don't we ever tell secrets on a farm?\n\nBecause the potatoes have eyes, the corn has ears, and the beans stalk.",
     "log": [
         {
             "question": "give me anothe test",
@@ -25,6 +25,122 @@
         {
             "question": "give me anothe test on pop culture",
             "answer": "1. Who wrote the \"Harry Potter\" series?\na) J.K. Rowling\nb) Stephen King\nc) Mark Twain\nd) Agatha Christie\n\n2. Friends is a popular sitcom consisting of how many main characters?\na) 5\nb) 6 \nc) 4\nd) 3\n\n3. Who played the role of Iron Man in the Marvel Cinematic Universe?\na) Chris Evans\nb) Robert Downey Jr.\nc) Tom Holland\nd) Chris Hemsworth\n\n4. Who sings the 2020 hit song \"Blinding Lights\"?\na) Post Malone\nb) The Weeknd\nc) Justin Bieber\nd) Ariana Grande\n\n5. Who won the 2021 Oscar for Best Actress?\na) Frances McDormand \nb) Viola Davis\nc) Carey Mulligan\nd) Vanessa Kirby\n\n6. Who is the creator of the popular animated TV show \"The Simpsons\"?\na) Matt Groening\nb) Seth MacFarlane\nc) Mike Judge\nd) Trey Parker\n\n7. Where \"Stranger Things\", a popular Netflix series, is primarily set?\na) Derry, Maine\nb) Sunnydale, California\nc) Boulder, Colorado\nd) Hawkins, Indiana\n\n8. Who is Kim Kardashian’s husband?\na) Jay-Z\nb) Kanye West\nc) Travis Scott\nd) Drake\n\n9. Which actor played the character of 'The Joker' in the movie 'The Dark Knight'?\na) Heath Ledger\nb) Jack Nicholson\nc) Jared Leto\nd) Joaquin Phoenix\n\n10. Who played James Bond in 'Casino Royale' (2006)?\na) Sean Connery\nb) Pierce Brosnan\nc) Daniel Craig\nd) Roger Moore\n"
+        },
+        {
+            "question": "give me anothe test",
+            "answer": "Sure! Here's a quick math test:\n\n1. What is 7 + 8?\n2. Solve for x: 3x - 5 = 10.\n3. What is the square root of 81?\n4. If y = 3x + 2, what is the value of y when x = 4?\n5. A group of 12 kids is divided into two teams for a soccer match. How many kids are in each team?",
+            "selection": [
+                0,
+                0
+            ]
+        },
+        {
+            "question": "what about anecdot",
+            "answer": "An anecdote is a short and interesting story about a real incident or person. It is often used as a way to entertain or to make a point in a conversation or piece of writing. They are typically humorous or intriguing and are used to illustrate a particular point or to engage the audience's interest.",
+            "selection": [
+                21,
+                39
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke",
+            "answer": "Why don't scientists trust atoms?\n\nBecause they make up everything!",
+            "selection": [
+                20,
+                40
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Why don't scientists trust atoms?\n\nBecause they make up everything!",
+            "selection": [
+                42,
+                63
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Sure, here's a classic one for you:\n\nWhy don't scientists trust atoms? \n\nBecause they make up everything!",
+            "selection": [
+                42,
+                63
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Sure, here you go:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!",
+            "selection": [
+                42,
+                63
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Sure, here's one for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!",
+            "selection": [
+                42,
+                63
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Sure, here's a light-hearted joke for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!",
+            "selection": [
+                42,
+                63
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Sure, I'll give it another go!\n\nWhy couldn't the bicycle stand up by itself?\n\nBecause it was two-tired!",
+            "selection": [
+                42,
+                63
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Sure, here's another joke:\n\nWhy don’t secret agents sleep?\n\nBecause they don’t want to be caught napping!",
+            "selection": [
+                42,
+                63
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Sure, here's a joke for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!",
+            "selection": [
+                42,
+                63
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Sure, here's one for you:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!",
+            "selection": [
+                42,
+                63
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Sure, here's one that always brings a chuckle:\n\nWhy don't scientists trust atoms?\n\nBecause they make up everything!",
+            "selection": [
+                42,
+                63
+            ]
+        },
+        {
+            "question": "what about anecdot\ntell me another joke\ntell me funniest joke",
+            "answer": "Okay, let's try another one:\n\nWhy don't we ever tell secrets on a farm?\n\nBecause the potatoes have eyes, the corn has ears, and the beans stalk.",
+            "selection": [
+                42,
+                63
+            ]
         }
+    ],
+    "selection": [
+        42,
+        63
     ]
 }

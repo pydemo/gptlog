@@ -1,6 +1,6 @@
 {
-    "question": "am i you?",
-    "answer": "No, as an artificial intelligence, I don't have a personal identity or consciousness. Therefore, you cannot be me.",
+    "question": "how can i disable all controlls but tree",
+    "answer": "We don't have a specific context to answer this question as efficiently as possible since the type of program or application where the action should take place was not mentioned. However, the best generalized method to disable controls would be to look through settings, preferences, or control properties in the software or system you are trying to manipulate. \n\nFor example, in Windows, you can disable certain controls in the \"Ease of Access\" center in the Control Panel. If you're in a game or other kind of software, look for options, settings, or control customization options.\n\nKeep in mind, the detailed steps vary from program to program and platform to platform. So if you could please provide more details about the exact software or platform you were referring to, a more accurate guide could be given.",
     "log": [
         {
             "question": "how can i disable all controlls but tree and then enable all of them once tree item was selected and it's not root in wxpython ",
@@ -9,6 +9,26 @@
         {
             "question": "am i you?",
             "answer": "No, as an artificial intelligence, I don't have a personal identity or consciousness. Therefore, you cannot be me."
+        },
+        {
+            "question": "how can i disable all controlls but tree and then enable all of them once tree item was selected and it's not root in wxpython ",
+            "answer": "In wxPython, you can disable controls by using the `Disable()` and enable controls by using `Enable()`. These methods provided by most widgets and set whether or not the user can interact with the widget.\n\nHere is a general example:\n\n```python\nimport wx\n\nclass Mywin(wx.Frame): \n   def __init__(self, parent, title): \n      super(Mywin, self).__init__(parent, title = title, size = (300,300)) \n      \n      self.panel = wx.Panel(self) \n           \n      vbox = wx.BoxSizer(wx.VERTICAL) \n      hbox = wx.BoxSizer(wx.HORIZONTAL) \n\n      self.tree = wx.TreeCtrl(self.panel, -1)  # Create the tree control\n      self.tree.Bind(wx.EVT_TREE_SEL_CHANGED, self.on_tree_selection)  # Bind an event handler to the tree selection event\n      \n      self.button = wx.Button(self.panel, -1, \"Button\")  # Create a button\n      self.button.Disable()  # Initially disable the button\n       \n      vbox.Add(self.tree, 1, flag = wx.EXPAND) \n      vbox.Add(self.button, 0,  flag = wx.ALIGN_CENTER) \n               \n      self.panel.SetSizer(vbox)  \n          \n      self.Centre() \n      self.Show(True) \n      \n   def on_tree_selection(self, event):\n      item = event.GetItem()  # Get the selected item\n      if not self.tree.ItemHasChildren(item):  # If the selected item is not a root i.e., it has no children\n         for child in self.panel.GetChildren():  # For each control in the panel\n            child.Enable()  # Enable the control\n\napp = wx.App() \nMywin(None,\"TreeCtrl Demo\") \napp.MainLoop() \n```\n\nThis is a basic example, your actual code may have other complexities. This code creates a wxPython GUI with a tree control and a button. Initially, the button is disabled. But when a leaf item (an item with no children) in the tree is selected, all controls in the panel are enabled, including the button.",
+            "selection": [
+                114,
+                114
+            ]
+        },
+        {
+            "question": "how can i disable all controlls but tree",
+            "answer": "We don't have a specific context to answer this question as efficiently as possible since the type of program or application where the action should take place was not mentioned. However, the best generalized method to disable controls would be to look through settings, preferences, or control properties in the software or system you are trying to manipulate. \n\nFor example, in Windows, you can disable certain controls in the \"Ease of Access\" center in the Control Panel. If you're in a game or other kind of software, look for options, settings, or control customization options.\n\nKeep in mind, the detailed steps vary from program to program and platform to platform. So if you could please provide more details about the exact software or platform you were referring to, a more accurate guide could be given.",
+            "selection": [
+                0,
+                40
+            ]
         }
+    ],
+    "selection": [
+        0,
+        40
     ]
 }
